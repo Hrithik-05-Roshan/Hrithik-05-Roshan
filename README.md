@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/Hrithik-05-Roshan/Hrithik-05-Roshan/main/banner.jpg"/>
 
-<h1>👋 Hey, I’m Hrithik</h1>
+<h1>👋 Hello, I’m Hrithik Burnwal</h1>
 
 <div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00E5FF&width=750&lines=Builder+%7C+Technologist;Web+Developer+%26+DSA+Enthusiast;Hackathon+Builder;Consistency+over+Motivation;2026+%3D+Execution+Mode)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&width=750&lines=UI%2FUX+Focused+Frontend+Developer;Open+Source+Contributor+(GSSoC);Full+Stack+Web+Developer;Building+Real-World+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,14 +16,18 @@
 
 ## 💫 About Me
 
-- 💻 Building **real-world web applications & systems**
-- 🧠 Focused on **DSA, problem-solving, and clean logic**
-- 🚀 Love **hackathons, MVPs, and shipping fast**
-- 🎯 Obsessed with **discipline, systems, and growth**
-- 🧩 Believe in **boring consistency → crazy results**
+- 💻 Actively contributing to **open-source initiatives (GSSoC)**
+- 🤝 Looking to collaborate on **Web Development & Open-Source projects**
+- ⚡ Skilled in building **scalable full-stack applications and interactive user interfaces**
+- 🎯 Strong focus on **real-world problem solving through clean UI/UX**
+- 🚀 Experience with **hackathons, MVPs, and rapid prototyping**
 
-I’m not here to just learn tech —  
-I’m here to **use it to build leverage and impact**.
+**Who I am:**  
+I am a **UI/UX-oriented developer**, primarily focused on **front-end development**, with a working understanding of the full stack.  
+I aim to build **practical, real-world products**, solve meaningful problems, and contribute to open ecosystems through collaboration.
+
+I’m not here to just learn tools —  
+I’m here to **apply them in real systems, real products, and open-source communities**.
 
 </td>
 <td>
@@ -41,7 +45,7 @@ I’m here to **use it to build leverage and impact**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik-05-Roshan&theme=tokyonight&hide_border=false&layout=compact" height="150px"/>
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hrithik-05-Roshan&theme=tokyonight"/>
 </p>
 
@@ -49,7 +53,7 @@ I’m here to **use it to build leverage and impact**.
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrithik-05-Roshan&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrithik-05-Roshan&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -67,8 +71,9 @@ I’m here to **use it to build leverage and impact**.
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/hrithik-burnwal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/hrithik.burnwal.9/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hrithik-barnwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/hrithik.burnwal.9"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.threads.net/@hrithik.burnwal.9"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
 </p>
 
 ---
@@ -82,17 +87,28 @@ I’m here to **use it to build leverage and impact**.
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 🌐 Web & Tools  
+### ⚛️ Frontend & UI  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Tools & Deployment  
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
+> “Good software is built twice — once in the mind, once in code.”
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hrithik-05-Roshan&style=flat&color=grey" />
 </p>
-
-> **No noise. No shortcuts. Just execution.**
