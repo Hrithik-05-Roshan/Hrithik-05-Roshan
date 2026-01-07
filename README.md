@@ -42,14 +42,14 @@ I’m here to **use it to build leverage and impact**.
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hrithik-05-Roshan&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hrithik-05-Roshan&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrithik-05-Roshan&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrithik-05-Roshan&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
