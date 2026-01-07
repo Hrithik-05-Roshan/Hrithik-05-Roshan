@@ -31,7 +31,7 @@ I’m here to **apply them in real systems, real products, and open-source commu
 
 </td>
 <td>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2J6eXFjcTVodXNzYTU2ZWU3eWN4emEwanF0OXQzdGJ4czlqd3hnayZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ieIQcqvlvMbfe9ZEYr/giphy.gif" width="350"/>
 </td>
 </tr>
 </table>
