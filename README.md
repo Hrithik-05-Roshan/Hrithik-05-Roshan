@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Hrithik-05-Roshan/Hrithik-05-Roshan/main/banner.jpg"/>
+<img src="https://raw.githubusercontent.com/Hrithik-05-Roshan/Hrithik-05-Roshan/main/Black and Purple Modern Corporate Personal Profile LinkedIn Banner.png"/>
 
 <h1>👋 Hello, I’m Hrithik Burnwal</h1>
 
