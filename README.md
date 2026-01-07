@@ -40,9 +40,9 @@ I’m here to **apply them in real systems, real products, and open-source commu
 
 ## 📊 GitHub Analytics
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrithik-05-Roshan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150px"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithik-05-Roshan&theme=tokyonight&hide_border=false" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik-05-Roshan&theme=tokyonight&hide_border=false&layout=compact" height="150px"/>
+
 </p>
 
 <p align="center">
