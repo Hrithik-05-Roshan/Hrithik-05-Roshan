@@ -41,7 +41,7 @@ I’m here to **apply them in real systems, real products, and open-source commu
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithik-05-Roshan&theme=tokyonight&hide_border=false" height="150px"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Hrithik-05-Roshan&show_icons=true&theme=tokyonight" height="150px"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hrithik-05-Roshan&theme=tokyonight"/>
 </p>
 
