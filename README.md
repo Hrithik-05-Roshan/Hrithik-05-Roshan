@@ -72,7 +72,7 @@ I’m here to **apply them in real systems, real products, and open-source commu
   <a href="https://www.threads.net/@hrithik.burnwal.9"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
 </p>
 
----
+--- 
 
 ## 💻 Tech Stack
 
