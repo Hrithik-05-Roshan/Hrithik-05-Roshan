@@ -49,7 +49,7 @@ I’m here to **apply them in real systems, real products, and open-source commu
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrithik-05-Roshan&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrithik-05-Roshan&theme=github-dark&hide_border=false"/>
 </p>
 
 ---
